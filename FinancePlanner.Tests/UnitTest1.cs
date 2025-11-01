@@ -1,10 +1,18 @@
-﻿namespace FinancePlanner.Tests;
+﻿using Xunit;
+using FinancePlanner;
 
-public class UnitTest1
+namespace FinancePlanner.Tests
 {
-    [Fact]
-    public void Test1()
+    public class FinancePlannerTests
     {
+        [Fact]
+        public void NewPlanner_ShouldHaveZeroBalance()
+        {
+            // Arrange + Act
+            var planner = new PersonalFinancePlanner();
 
+            // Assert
+            Assert.Equal(0, planner.GetBalance());
+        }
     }
 }
