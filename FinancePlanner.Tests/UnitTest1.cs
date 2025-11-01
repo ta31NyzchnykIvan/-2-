@@ -31,6 +31,12 @@ namespace FinancePlanner.Tests
 
             Assert.Equal(600, planner.GetBalance());
         }
+        [Fact]
+        public void AddIncome_ShouldThrow_WhenAmountIsNegative()
+        {
+            var planner = new PersonalFinancePlanner();
+            Assert.Throws<ArgumentException>(() => planner.AddIncome(-100));
+        }
 
     }
 }
