@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wb24NbG7pNM=",
+  "dgSpecHash": "4l2bVeapi6I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\08102\\Desktop\\лаб 2\\FinancePlanner.Tests\\FinancePlanner.Tests.csproj",
+  "projectFilePath": "C:\\УНІВЕР\\5 семестр\\МРПЗ\\лаб 2\\FinancePlanner.Tests\\FinancePlanner.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\08102\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\08102\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

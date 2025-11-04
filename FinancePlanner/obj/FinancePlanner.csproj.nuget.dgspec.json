@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\08102\\Desktop\\лаб 2\\FinancePlanner\\FinancePlanner.csproj": {}
+    "C:\\УНІВЕР\\5 семестр\\МРПЗ\\лаб 2\\FinancePlanner\\FinancePlanner.csproj": {}
   },
   "projects": {
-    "C:\\Users\\08102\\Desktop\\лаб 2\\FinancePlanner\\FinancePlanner.csproj": {
+    "C:\\УНІВЕР\\5 семестр\\МРПЗ\\лаб 2\\FinancePlanner\\FinancePlanner.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\08102\\Desktop\\лаб 2\\FinancePlanner\\FinancePlanner.csproj",
+        "projectUniqueName": "C:\\УНІВЕР\\5 семестр\\МРПЗ\\лаб 2\\FinancePlanner\\FinancePlanner.csproj",
         "projectName": "FinancePlanner",
-        "projectPath": "C:\\Users\\08102\\Desktop\\лаб 2\\FinancePlanner\\FinancePlanner.csproj",
+        "projectPath": "C:\\УНІВЕР\\5 семестр\\МРПЗ\\лаб 2\\FinancePlanner\\FinancePlanner.csproj",
         "packagesPath": "C:\\Users\\08102\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\08102\\Desktop\\лаб 2\\FinancePlanner\\obj\\",
+        "outputPath": "C:\\УНІВЕР\\5 семестр\\МРПЗ\\лаб 2\\FinancePlanner\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\08102\\AppData\\Roaming\\NuGet\\NuGet.Config",

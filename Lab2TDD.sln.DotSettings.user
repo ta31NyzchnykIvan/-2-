@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3a1d8e43_002Dc382_002D4443_002D9643_002D935870b79298/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="NewPlanner_ShouldHaveZeroBalance" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::6AE0CA3D-CDA3-4CC3-90B9-358DD77438C4::net9.0::FinancePlanner.Tests.FinancePlannerTests.NewPlanner_ShouldHaveZeroBalance&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::6AE0CA3D-CDA3-4CC3-90B9-358DD77438C4::net9.0::FinancePlanner.Tests.FinancePlannerTests.AddIncome_ShouldIncreaseBalance&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -9,3 +9,15 @@ C:\Users\08102\Desktop\лаб 2\FinancePlanner\obj\Debug\net9.0\FinancePlanner.d
 C:\Users\08102\Desktop\лаб 2\FinancePlanner\obj\Debug\net9.0\refint\FinancePlanner.dll
 C:\Users\08102\Desktop\лаб 2\FinancePlanner\obj\Debug\net9.0\FinancePlanner.pdb
 C:\Users\08102\Desktop\лаб 2\FinancePlanner\obj\Debug\net9.0\ref\FinancePlanner.dll
+C:\УНІВЕР\5 семестр\МРПЗ\лаб 2\FinancePlanner\bin\Debug\net9.0\FinancePlanner.deps.json
+C:\УНІВЕР\5 семестр\МРПЗ\лаб 2\FinancePlanner\bin\Debug\net9.0\FinancePlanner.dll
+C:\УНІВЕР\5 семестр\МРПЗ\лаб 2\FinancePlanner\bin\Debug\net9.0\FinancePlanner.pdb
+C:\УНІВЕР\5 семестр\МРПЗ\лаб 2\FinancePlanner\obj\Debug\net9.0\FinancePlanner.GeneratedMSBuildEditorConfig.editorconfig
+C:\УНІВЕР\5 семестр\МРПЗ\лаб 2\FinancePlanner\obj\Debug\net9.0\FinancePlanner.AssemblyInfoInputs.cache
+C:\УНІВЕР\5 семестр\МРПЗ\лаб 2\FinancePlanner\obj\Debug\net9.0\FinancePlanner.AssemblyInfo.cs
+C:\УНІВЕР\5 семестр\МРПЗ\лаб 2\FinancePlanner\obj\Debug\net9.0\FinancePlanner.csproj.CoreCompileInputs.cache
+C:\УНІВЕР\5 семестр\МРПЗ\лаб 2\FinancePlanner\obj\Debug\net9.0\FinancePlanner.sourcelink.json
+C:\УНІВЕР\5 семестр\МРПЗ\лаб 2\FinancePlanner\obj\Debug\net9.0\FinancePlanner.dll
+C:\УНІВЕР\5 семестр\МРПЗ\лаб 2\FinancePlanner\obj\Debug\net9.0\refint\FinancePlanner.dll
+C:\УНІВЕР\5 семестр\МРПЗ\лаб 2\FinancePlanner\obj\Debug\net9.0\FinancePlanner.pdb
+C:\УНІВЕР\5 семестр\МРПЗ\лаб 2\FinancePlanner\obj\Debug\net9.0\ref\FinancePlanner.dll

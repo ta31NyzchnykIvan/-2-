@@ -1,4 +1,4 @@
-﻿using Xunit;
+﻿
 using FinancePlanner;
 
 namespace FinancePlanner.Tests
@@ -27,15 +27,25 @@ namespace FinancePlanner.Tests
         {
             var planner = new PersonalFinancePlanner();
             planner.AddIncome(1000);
-            planner.AddExpense(400);
+            Assert.Equal(1000, planner.GetBalance()); 
 
+            planner.AddExpense(400);
             Assert.Equal(600, planner.GetBalance());
         }
+
         [Fact]
         public void AddIncome_ShouldThrow_WhenAmountIsNegative()
         {
             var planner = new PersonalFinancePlanner();
             Assert.Throws<ArgumentException>(() => planner.AddIncome(-100));
+        }
+        [Fact]
+        public void AddExpense_ShouldThrow_WhenAmountExceedsBalance()
+        {
+            var planner = new PersonalFinancePlanner();
+            planner.AddIncome(500);
+
+            Assert.Throws<InvalidOperationException>(() => planner.AddExpense(600));
         }
 
     }
